@@ -33,10 +33,10 @@ and propose a field-based interpretation of this term — the **Wobble Field** �
 ---
 
 ## 📁 Repo Structure
-├── notebooks/interference_analysis.py ← Core simulation + data analysis
-├── data/Data_D2He_DoubleSlitScattering.xlsx ← Zhou et al. 2021 experimental data 
-├── images/ ← Add plots here as needed
-└── README.md ← This file
+- ├── notebooks/interference_analysis.py ← Core simulation + data analysis
+- ├── data/Data_D2He_DoubleSlitScattering.xlsx ← Zhou et al. 2021 experimental data 
+- ├── images/ ← Add plots here as needed
+- └── README.md ← This file
 ---
 
 ## 🧠 Why This Matters

@@ -1,3 +1,6 @@
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wGAXh5HlW6W260zcMtwcYhQLk2WJzXtQ)
+
 # Interference Cross-Term Extraction — "The Wobble Field"
 
 This repository explores a measurable interference structure hidden in standard quantum mechanics. We isolate the cross-term:
@@ -35,7 +38,6 @@ and propose a field-based interpretation of this term — the **Wobble Field** �
 ## 📁 Repo Structure
 - ├── notebooks/interference_analysis.py ← Core simulation + data analysis
 - ├── data/Data_D2He_DoubleSlitScattering.xlsx ← Zhou et al. 2021 experimental data 
-- ├── images/ ← Add plots here as needed
 - └── README.md ← This file
 ---
 

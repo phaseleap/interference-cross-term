@@ -36,8 +36,9 @@ and propose a field-based interpretation of this term — the **Wobble Field** �
 ---
 
 ## 📁 Repo Structure
-- ├── notebooks/interference_analysis.py ← Core simulation + data analysis
-- ├── data/Data_D2He_DoubleSlitScattering.xlsx ← Zhou et al. 2021 experimental data 
+- ├── notebooks/wobble_field_analysis.ipynb ← Core simulation + data analysis
+- ├── data/Data_D2He_DoubleSlitScattering.xlsx ← Zhou et al. 2021 experimental data
+- ├── images/ ← Visualizations of the interference field
 - └── README.md ← This file
 ---
 
@@ -97,6 +98,11 @@ If you're a physicist, theorist, or someone serious about quantum structure:
 Let’s make this structure visible.
 
 ---
+## 🖼️ Visualization
+
+![Interference Field Space-Time Evolution](images/m_interf_spacetime.png)
+*Space-time evolution of the interference cross-term M_interf(x, t). This field emerges from the difference between full superposition and individual probability densities. It’s dynamic, structured, and measurable.*
+
 
 ## 🧑‍🔬 License
 
